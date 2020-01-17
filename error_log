@@ -1,0 +1,150 @@
+[13-Jan-2020 08:59:24 UTC] PHP Warning:  require(phpmailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/trueword/public_html/book/register.php on line 3
+[13-Jan-2020 08:59:24 UTC] PHP Warning:  require(phpmailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/trueword/public_html/book/register.php on line 3
+[13-Jan-2020 08:59:24 UTC] PHP Fatal error:  require(): Failed opening required 'phpmailer/PHPMailerAutoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/trueword/public_html/book/register.php on line 3
+[13-Jan-2020 09:17:17 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/trueword/public_html/book/register.php on line 62
+[13-Jan-2020 09:18:14 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/trueword/public_html/book/register.php on line 62
+[13-Jan-2020 09:18:16 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/trueword/public_html/book/register.php on line 62
+[13-Jan-2020 09:18:49 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/trueword/public_html/book/register.php on line 62
+[13-Jan-2020 09:18:52 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/trueword/public_html/book/register.php on line 62
+[13-Jan-2020 09:19:57 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/trueword/public_html/book/register.php on line 63
+[13-Jan-2020 09:20:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/trueword/public_html/book/register.php on line 289
+[13-Jan-2020 09:49:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/trueword/public_html/book/session.php on line 12
+[13-Jan-2020 09:49:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/trueword/public_html/book/session.php on line 14
+[13-Jan-2020 09:50:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/trueword/public_html/book/session.php on line 12
+[13-Jan-2020 09:50:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/trueword/public_html/book/session.php on line 14
+[13-Jan-2020 09:51:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/trueword/public_html/book/session.php on line 12
+[13-Jan-2020 09:51:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/trueword/public_html/book/session.php on line 14
+[13-Jan-2020 09:52:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/trueword/public_html/book/session.php on line 12
+[13-Jan-2020 09:52:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/trueword/public_html/book/session.php on line 14
+[13-Jan-2020 09:53:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/trueword/public_html/book/session.php on line 12
+[13-Jan-2020 09:53:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/trueword/public_html/book/session.php on line 14
+[13-Jan-2020 09:53:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/trueword/public_html/book/session.php on line 12
+[13-Jan-2020 09:53:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/trueword/public_html/book/session.php on line 14
+[13-Jan-2020 09:53:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/trueword/public_html/book/session.php on line 12
+[13-Jan-2020 09:53:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/trueword/public_html/book/session.php on line 14
+[13-Jan-2020 09:59:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/trueword/public_html/book/session.php on line 12
+[13-Jan-2020 09:59:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/trueword/public_html/book/session.php on line 14
+[13-Jan-2020 09:59:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/trueword/public_html/book/session.php on line 12
+[13-Jan-2020 09:59:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/trueword/public_html/book/session.php on line 14
+[13-Jan-2020 09:59:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/trueword/public_html/book/session.php on line 12
+[13-Jan-2020 09:59:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/trueword/public_html/book/session.php on line 14
+[13-Jan-2020 10:22:33 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/trueword/public_html/book/session.php on line 18
+[13-Jan-2020 10:23:14 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/trueword/public_html/book/session.php on line 18
+[13-Jan-2020 10:23:34 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/trueword/public_html/book/session.php on line 18
+[13-Jan-2020 10:24:05 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/trueword/public_html/book/session.php on line 18
+[13-Jan-2020 10:24:29 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/trueword/public_html/book/session.php on line 18
+[13-Jan-2020 10:33:17 UTC] PHP Fatal error:  Cannot redeclare Connect() (previously declared in /home/trueword/public_html/book/connection.php:6) in /home/trueword/public_html/book/connection.php on line 17
+[13-Jan-2020 12:21:18 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/trueword/public_html/book/read.php on line 12
+[13-Jan-2020 12:30:36 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/trueword/public_html/book/read.php on line 14
+[13-Jan-2020 15:53:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 10
+[13-Jan-2020 15:55:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 10
+[13-Jan-2020 15:56:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 10
+[13-Jan-2020 16:06:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home/trueword/public_html/book/product_detail.php on line 12
+[13-Jan-2020 16:07:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home/trueword/public_html/book/product_detail.php on line 11
+[13-Jan-2020 16:10:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home/trueword/public_html/book/product_detail.php on line 12
+[13-Jan-2020 16:12:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home/trueword/public_html/book/product_detail.php on line 11
+[13-Jan-2020 16:12:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home/trueword/public_html/book/product_detail.php on line 12
+[13-Jan-2020 16:17:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home/trueword/public_html/book/product_detail.php on line 12
+[13-Jan-2020 16:17:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home/trueword/public_html/book/product_detail.php on line 12
+[13-Jan-2020 16:17:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home/trueword/public_html/book/product_detail.php on line 12
+[13-Jan-2020 16:18:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home/trueword/public_html/book/product_detail.php on line 12
+[13-Jan-2020 16:19:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home/trueword/public_html/book/product_detail.php on line 12
+[13-Jan-2020 16:20:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home/trueword/public_html/book/product_detail.php on line 12
+[13-Jan-2020 16:23:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home/trueword/public_html/book/product_detail.php on line 12
+[13-Jan-2020 16:28:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home/trueword/public_html/book/product_detail.php on line 12
+[13-Jan-2020 16:29:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home/trueword/public_html/book/product_detail.php on line 12
+[13-Jan-2020 16:29:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home/trueword/public_html/book/product_detail.php on line 12
+[13-Jan-2020 16:33:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home/trueword/public_html/book/product_detail.php on line 12
+[13-Jan-2020 16:33:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home/trueword/public_html/book/product_detail.php on line 12
+[13-Jan-2020 16:36:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home/trueword/public_html/book/product_detail.php on line 12
+[13-Jan-2020 16:36:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home/trueword/public_html/book/product_detail.php on line 12
+[13-Jan-2020 16:37:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home/trueword/public_html/book/product_detail.php on line 12
+[13-Jan-2020 16:39:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home/trueword/public_html/book/product_detail.php on line 12
+[13-Jan-2020 16:41:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home/trueword/public_html/book/product_detail.php on line 12
+[13-Jan-2020 16:47:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home/trueword/public_html/book/product_detail.php on line 12
+[13-Jan-2020 16:48:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home/trueword/public_html/book/product_detail.php on line 12
+[13-Jan-2020 16:54:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home/trueword/public_html/book/product_detail.php on line 12
+[13-Jan-2020 16:54:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 27
+[13-Jan-2020 16:54:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 11
+[13-Jan-2020 16:54:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/trueword/public_html/book/product_detail.php on line 12
+[13-Jan-2020 16:54:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 27
+[13-Jan-2020 16:55:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home/trueword/public_html/book/product_detail.php on line 12
+[13-Jan-2020 16:55:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 27
+[13-Jan-2020 16:55:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 11
+[13-Jan-2020 16:55:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/trueword/public_html/book/product_detail.php on line 12
+[13-Jan-2020 16:55:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 27
+[13-Jan-2020 16:59:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 11
+[13-Jan-2020 16:59:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/trueword/public_html/book/product_detail.php on line 12
+[13-Jan-2020 16:59:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 27
+[13-Jan-2020 16:59:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home/trueword/public_html/book/product_detail.php on line 12
+[13-Jan-2020 16:59:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 27
+[13-Jan-2020 17:03:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/index.php on line 30
+[13-Jan-2020 17:03:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/index.php on line 30
+[13-Jan-2020 17:03:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/index.php on line 30
+[13-Jan-2020 17:03:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/index.php on line 30
+[13-Jan-2020 17:05:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/index.php on line 30
+[13-Jan-2020 17:05:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/index.php on line 30
+[13-Jan-2020 17:06:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/index.php on line 30
+[13-Jan-2020 17:06:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/index.php on line 30
+[13-Jan-2020 17:07:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/index.php on line 30
+[13-Jan-2020 17:12:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home/trueword/public_html/book/product_detail.php on line 12
+[13-Jan-2020 17:12:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 27
+[13-Jan-2020 17:12:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home/trueword/public_html/book/product_detail.php on line 12
+[13-Jan-2020 17:12:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 27
+[13-Jan-2020 17:13:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home/trueword/public_html/book/product_detail.php on line 12
+[13-Jan-2020 17:13:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 27
+[13-Jan-2020 17:14:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home/trueword/public_html/book/product_detail.php on line 12
+[13-Jan-2020 17:14:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 27
+[13-Jan-2020 17:14:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home/trueword/public_html/book/product_detail.php on line 12
+[13-Jan-2020 17:14:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 27
+[13-Jan-2020 17:23:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 11
+[13-Jan-2020 17:23:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/trueword/public_html/book/product_detail.php on line 12
+[13-Jan-2020 17:23:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 27
+[13-Jan-2020 17:55:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 13
+[13-Jan-2020 18:32:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 13
+[13-Jan-2020 18:33:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 13
+[13-Jan-2020 18:36:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 13
+[13-Jan-2020 18:36:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 13
+[13-Jan-2020 18:40:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 13
+[13-Jan-2020 18:41:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 13
+[13-Jan-2020 18:41:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 13
+[13-Jan-2020 18:42:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 13
+[13-Jan-2020 18:44:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 13
+[13-Jan-2020 18:45:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 13
+[13-Jan-2020 18:49:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/trueword/public_html/book/product_detail.php on line 288
+[13-Jan-2020 18:49:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/trueword/public_html/book/product_detail.php on line 282
+[13-Jan-2020 18:52:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 13
+[13-Jan-2020 18:56:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 13
+[13-Jan-2020 18:56:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 13
+[13-Jan-2020 18:59:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 13
+[13-Jan-2020 19:35:34 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/trueword/public_html/book/product_detail.php on line 95
+[13-Jan-2020 19:36:20 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/trueword/public_html/book/product_detail.php on line 93
+[13-Jan-2020 19:36:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 13
+[13-Jan-2020 19:37:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 13
+[13-Jan-2020 19:40:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 13
+[13-Jan-2020 19:40:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 13
+[13-Jan-2020 19:41:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 13
+[13-Jan-2020 19:41:22 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 13
+[13-Jan-2020 19:42:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 13
+[13-Jan-2020 19:42:17 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 13
+[13-Jan-2020 19:43:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 13
+[13-Jan-2020 21:49:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 13
+[13-Jan-2020 21:49:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 46
+[13-Jan-2020 21:49:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 13
+[13-Jan-2020 21:49:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 46
+[13-Jan-2020 21:51:22 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 13
+[13-Jan-2020 21:51:22 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 46
+[13-Jan-2020 21:51:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 13
+[13-Jan-2020 21:51:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 46
+[13-Jan-2020 21:52:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 13
+[13-Jan-2020 21:52:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 46
+[14-Jan-2020 05:43:06 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/trueword/public_html/book/product_detail.php on line 295
+[14-Jan-2020 05:43:45 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/trueword/public_html/book/product_detail.php on line 295
+[14-Jan-2020 05:47:13 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/trueword/public_html/book/product_detail.php on line 295
+[14-Jan-2020 05:57:00 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/trueword/public_html/book/product_detail.php on line 301
+[14-Jan-2020 06:05:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 13
+[14-Jan-2020 06:05:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 46
+[14-Jan-2020 15:45:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 13
+[14-Jan-2020 15:45:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 46
+[14-Jan-2020 15:45:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 13
+[14-Jan-2020 15:45:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/trueword/public_html/book/product_detail.php on line 46
